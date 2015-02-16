@@ -1,3 +1,3 @@
-hackerrank
+HackerRank
 ==========
-Programs from hackerrank competitions
+Solutions for HackerRank competitions.
